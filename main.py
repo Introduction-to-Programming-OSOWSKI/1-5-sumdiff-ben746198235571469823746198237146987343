@@ -1,2 +1,2 @@
-def sunDiff(x,y):
+def sumDiff(x,y):
     return (x+y)-(x-y)
