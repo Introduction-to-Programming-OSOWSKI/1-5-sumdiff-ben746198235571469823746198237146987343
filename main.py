@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def sunDiff(x,y):
+    return (x+y)-(x-y)
